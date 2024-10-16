@@ -3,6 +3,7 @@
 Welcome to Property Grab, the ultimate platform to discover comfortable and affordable properties. Whether you're a student, working professional, or someone looking for a new home, Property Grab helps you find the ideal property that suits your needs.
 
 🏡 **Features**:
+
 - Browse through a wide range of property listings
 - Filter options to narrow down your search based on preferences
 - Detailed information about each property, including amenities and pricing
@@ -11,6 +12,7 @@ Welcome to Property Grab, the ultimate platform to discover comfortable and affo
 - Connect with property owners for inquiries
 
 🚀 **How to Use**:
+
 1. Visit the Property Grab website.
 2. Explore the list of available properties.
 3. Use filters to refine your search based on location, amenities, and more.
@@ -18,6 +20,7 @@ Welcome to Property Grab, the ultimate platform to discover comfortable and affo
 5. Leave reviews and ratings to help others make informed decisions.
 
 ⚙️ **Technologies Used**:
+
 - **Frontend**: HTML, CSS, React
 - **Backend**: Node.js, Express
 - **Database**: MongoDB
@@ -26,6 +29,6 @@ Welcome to Property Grab, the ultimate platform to discover comfortable and affo
 
 🤝 **Contributions**: Contributions are welcome! If you have ideas for improvements or features, feel free to submit a pull request.
 
-🌐 **Explore Property Grab**: Visit our website at [Property Grab](https://propertygrab.netlify.app/)
+🌐 **Explore Property Grab**: Visit our website at [Property Grab](https://property-grab.vercel.app/)
 
 Happy property hunting!
